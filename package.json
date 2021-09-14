@@ -11,6 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mason021/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mason021/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/Mason021/pizza-hunt#readme"
 }
