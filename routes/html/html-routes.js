@@ -14,4 +14,3 @@ router.get('/pizza', (req, res) => {
 });
 
 module.exports = router;
-
